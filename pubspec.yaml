@@ -1,0 +1,14 @@
+name: messenger_platform_webhooks
+description: This package provides a set of classes to handle webhook events from the Facebook (Meta) Messenger Platform.
+version: 1.0.0
+repository: https://github.com/p4-k4/dart-package_messenger_platform_webhooks
+
+environment:
+  sdk: ^3.6.0-164.0.dev
+
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
